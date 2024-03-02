@@ -3,6 +3,8 @@ var arr =[
     {songName:"In Your Eyes | Weekend |",url: "./songs/The Weeknd - In Your Eyes (Official Audio).mp3",img:"./images/Afterhours.jpg",len:"3:56"},
     // {songName:"Edmame | bbno$ |",url: "./songs/edmame.mp3",img:"./images/Edmame.jpg",len:"2:21"},
     {songName:"Logic-Beggin Remix | Logic |",url: "./songs/beggin.mp3",img:"./images/Logic.jpg",len:"3:19"},
+    {songName:"Your Name OST | Sparkle |",url: "./songs/sparkle.mp3",img:"./images/yourname.jpg",len:"3:19"},
+    {songName:"Logic-Beggin Remix | Logic |",url: "./songs/lampislow.mp3",img:"./images/lampislow.jpg",len:"3:19"},
     
 
 ]
