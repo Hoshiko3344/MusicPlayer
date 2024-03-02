@@ -4,7 +4,7 @@ var arr =[
     // {songName:"Edmame | bbno$ |",url: "./songs/edmame.mp3",img:"./images/Edmame.jpg",len:"2:21"},
     {songName:"Logic-Beggin Remix | Logic |",url: "./songs/beggin.mp3",img:"./images/Logic.jpg",len:"3:19"},
     {songName:"Your Name OST | Sparkle |",url: "./songs/sparkle.mp3",img:"./images/yourname.jpg",len:"3:19"},
-    {songName:"The Lamp is Low | Aurarian Dance |",url: "./songs/lampislow.mp3",img:"./images/lampislow.jpg",len:"3:19"},
+    {songName:"The Lamp is Low | Aurarian Dance |",url: "./songs/lampislow.mp3",img:"./images/Auraian.jpeg",len:"3:19"},
     
 
 ]

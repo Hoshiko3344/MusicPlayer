@@ -26,7 +26,7 @@ html , body{
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.712); /* Translucent black overlay */
+    background-color: rgba(0, 0, 0, 0.849); /* Translucent black overlay */
     z-index: 1; /* Ensure overlay is above the video */
 }
 #main video{
@@ -81,15 +81,17 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border-top: 4px solid #406de7;
+    border-top: 4px solid rgba(255, 255, 255, 0.555);
     padding: 15px 15px;
-    border-radius: 10px;
+    
 }
 .songCard #part1{
     display: flex;
     align-items: center;
     pointer-events: none;
+    height: 6vh;
 }
+
 .songCard img{
     border-radius: 5px;
     height: 55px;
@@ -97,7 +99,7 @@ nav{
     margin-right: 20px;
 }
 .songCard:nth-last-child(1){
-    border-bottom: 4px solid #406de7;
+    border-bottom: 4px solid rgba(255, 255, 255, 0.562);
 }
 .songCard h2{
     font-size: 22px;
