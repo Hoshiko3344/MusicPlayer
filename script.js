@@ -1,10 +1,11 @@
 var arr =[
-    {songName:"MovingCastle | Joe Hisashi |",url: "./songs/movingCastle.mp3",img:"./images/mc.webp",len:"3:56"},
+    
     {songName:"In Your Eyes | Weekend |",url: "./songs/The Weeknd - In Your Eyes (Official Audio).mp3",img:"./images/Afterhours.jpg",len:"3:56"},
+    {songName:"MovingCastle | Joe Hisashi |",url: "./songs/movingCastle.mp3",img:"./images/mc.webp",len:"6:07"},
     // {songName:"Edmame | bbno$ |",url: "./songs/edmame.mp3",img:"./images/Edmame.jpg",len:"2:21"},
     {songName:"Logic-Beggin Remix | Logic |",url: "./songs/beggin.mp3",img:"./images/Logic.jpg",len:"3:19"},
-    {songName:"Your Name OST | Sparkle |",url: "./songs/sparkle.mp3",img:"./images/yourname.jpg",len:"3:19"},
-    {songName:"The Lamp is Low | Aurarian Dance |",url: "./songs/lampislow.mp3",img:"./images/Auraian.jpeg",len:"3:19"},
+    {songName:"Your Name OST | Sparkle |",url: "./songs/sparkle.mp3",img:"./images/yourname.jpg",len:"6:50"},
+    {songName:"The Lamp is Low | Aurarian Dance |",url: "./songs/lampislow.mp3",img:"./images/Auraian.jpeg",len:"2:50"},
     
 
 ]
