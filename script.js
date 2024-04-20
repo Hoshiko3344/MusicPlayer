@@ -1,6 +1,6 @@
 var arr =[
     
-    {songName:"In Your Eyes | Weekend |",url: "./songs/The Weeknd - In Your Eyes (Official Audio).mp3",img:"./images/Afterhours.jpg",len:"3:56"},
+    {songName:"Let it Happen | Tame Impala |",url: "./songs/TameImpala.mp3",img:"./images/Currents.png",len:"4:16"},
     {songName:"MovingCastle | Joe Hisashi |",url: "./songs/movingCastle.mp3",img:"./images/mc.webp",len:"6:07"},
     // {songName:"Edmame | bbno$ |",url: "./songs/edmame.mp3",img:"./images/Edmame.jpg",len:"2:21"},
     {songName:"Logic-Beggin Remix | Logic |",url: "./songs/beggin.mp3",img:"./images/Logic.jpg",len:"3:19"},
